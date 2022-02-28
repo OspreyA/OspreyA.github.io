@@ -1,8 +1,6 @@
 ---
 title: the First Question
 date: 2022-02-27 20:52:44
-tags:Life
-
 ---
 
 谁在自己出生的地方成长？
