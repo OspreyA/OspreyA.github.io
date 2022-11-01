@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
+title: 九夜寺
+subtitle: "生活开始被当作死刑缓期，没有别的，人们不再发问，而且是有意如此。"
+description: "We read, we remember, we save"
 keywords:
-author: John Doe
+author: 九夜人
 language: en
 timezone: ""
 
@@ -40,7 +40,7 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-next-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
